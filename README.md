@@ -1,0 +1,2 @@
+# kurdbank
+my blog codes
